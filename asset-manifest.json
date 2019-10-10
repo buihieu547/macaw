@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/macaw/static/css/main.861d5b7c.chunk.css",
-    "main.js": "/macaw/static/js/main.3b0d5f49.chunk.js",
-    "main.js.map": "/macaw/static/js/main.3b0d5f49.chunk.js.map",
+    "main.js": "/macaw/static/js/main.ddc75158.chunk.js",
+    "main.js.map": "/macaw/static/js/main.ddc75158.chunk.js.map",
     "runtime-main.js": "/macaw/static/js/runtime-main.3ef881ed.js",
     "runtime-main.js.map": "/macaw/static/js/runtime-main.3ef881ed.js.map",
     "static/css/2.925cf2a4.chunk.css": "/macaw/static/css/2.925cf2a4.chunk.css",
     "static/js/2.ccd366b1.chunk.js": "/macaw/static/js/2.ccd366b1.chunk.js",
     "static/js/2.ccd366b1.chunk.js.map": "/macaw/static/js/2.ccd366b1.chunk.js.map",
     "index.html": "/macaw/index.html",
-    "precache-manifest.db59ed712afe0b4929d5d3986461baff.js": "/macaw/precache-manifest.db59ed712afe0b4929d5d3986461baff.js",
+    "precache-manifest.7e28519189a1115071c80a7c66376c4f.js": "/macaw/precache-manifest.7e28519189a1115071c80a7c66376c4f.js",
     "service-worker.js": "/macaw/service-worker.js",
     "static/css/2.925cf2a4.chunk.css.map": "/macaw/static/css/2.925cf2a4.chunk.css.map",
     "static/css/main.861d5b7c.chunk.css.map": "/macaw/static/css/main.861d5b7c.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.925cf2a4.chunk.css",
     "static/js/2.ccd366b1.chunk.js",
     "static/css/main.861d5b7c.chunk.css",
-    "static/js/main.3b0d5f49.chunk.js"
+    "static/js/main.ddc75158.chunk.js"
   ]
 }
