@@ -1,15 +1,30 @@
 {
   "files": {
-    "main.css": "/minesweeper/static/css/main.c68bde2b.chunk.css",
-    "main.js": "/minesweeper/static/js/main.25b0bc98.chunk.js",
-    "main.js.map": "/minesweeper/static/js/main.25b0bc98.chunk.js.map",
-    "runtime~main.js": "/minesweeper/static/js/runtime~main.33be3dbd.js",
-    "runtime~main.js.map": "/minesweeper/static/js/runtime~main.33be3dbd.js.map",
-    "static/js/2.ddbd9e26.chunk.js": "/minesweeper/static/js/2.ddbd9e26.chunk.js",
-    "static/js/2.ddbd9e26.chunk.js.map": "/minesweeper/static/js/2.ddbd9e26.chunk.js.map",
-    "index.html": "/minesweeper/index.html",
-    "precache-manifest.0b447ce7939b220a662f430593956744.js": "/minesweeper/precache-manifest.0b447ce7939b220a662f430593956744.js",
-    "service-worker.js": "/minesweeper/service-worker.js",
-    "static/css/main.c68bde2b.chunk.css.map": "/minesweeper/static/css/main.c68bde2b.chunk.css.map"
-  }
+    "main.css": "/static/css/main.454402e4.chunk.css",
+    "main.js": "/static/js/main.c5fd8be9.chunk.js",
+    "main.js.map": "/static/js/main.c5fd8be9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ab3ec558.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ab3ec558.js.map",
+    "static/css/2.cdaf15d1.chunk.css": "/static/css/2.cdaf15d1.chunk.css",
+    "static/js/2.ccd366b1.chunk.js": "/static/js/2.ccd366b1.chunk.js",
+    "static/js/2.ccd366b1.chunk.js.map": "/static/js/2.ccd366b1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b5923ac009ac37da2326e4c4a6c8b4df.js": "/precache-manifest.b5923ac009ac37da2326e4c4a6c8b4df.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cdaf15d1.chunk.css.map": "/static/css/2.cdaf15d1.chunk.css.map",
+    "static/css/main.454402e4.chunk.css.map": "/static/css/main.454402e4.chunk.css.map",
+    "static/media/styles.scss": "/static/media/pricing.601935ca.svg",
+    "static/media/facebook.svg": "/static/media/facebook.8a13452a.svg",
+    "static/media/introduction.svg": "/static/media/introduction.4abed355.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.c38da78e.svg",
+    "static/media/logo.svg": "/static/media/logo.957855e8.svg",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab3ec558.js",
+    "static/css/2.cdaf15d1.chunk.css",
+    "static/js/2.ccd366b1.chunk.js",
+    "static/css/main.454402e4.chunk.css",
+    "static/js/main.c5fd8be9.chunk.js"
+  ]
 }
