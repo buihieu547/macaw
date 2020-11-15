@@ -107,17 +107,17 @@ define("./service-worker.js",['./workbox-3b8b670f'], function (workbox) { 'use s
    */
 
   workbox.precacheAndRoute([{
-    "url": "/index.bundle.js",
-    "revision": "34167f413a141a3beb9cbce2a0001a1a"
+    "url": "/macawindex.bundle.js",
+    "revision": "2c4f24588524f52276cb63516db9b5ed"
   }, {
-    "url": "/manifest.888daff360ffde642e4d144172761f1f.json",
+    "url": "/macawmanifest.888daff360ffde642e4d144172761f1f.json",
     "revision": "888daff360ffde642e4d144172761f1f"
   }, {
-    "url": "/signin.bundle.js",
-    "revision": "370eff3078a4a65dc75981a1063c3fba"
+    "url": "/macawsignin.bundle.js",
+    "revision": "e7866d1c59c616240dd0a9715587e927"
   }, {
-    "url": "/signup.bundle.js",
-    "revision": "a429e2eb4862adb592d93949fb8f7b57"
+    "url": "/macawsignup.bundle.js",
+    "revision": "9b20d5a1d194d55221a510da227e4475"
   }], {});
 
 });
